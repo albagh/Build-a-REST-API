@@ -1,0 +1,63 @@
+[
+    {
+      "movieName": "Inception",
+      "director": "Christopher Nolan",
+      "genre": "Science Fiction",
+      "releaseYear": 2010
+    },
+    {
+      "movieName": "The Dark Knight",
+      "director": "Christopher Nolan",
+      "genre": "Action, Crime, Drama",
+      "releaseYear": 2008
+    },
+    {
+      "movieName": "Pulp Fiction",
+      "director": "Quentin Tarantino",
+      "genre": "Crime, Drama",
+      "releaseYear": 1994
+    },
+    {
+      "movieName": "The Shawshank Redemption",
+      "director": "Frank Darabont",
+      "genre": "Drama",
+      "releaseYear": 1994
+    },
+    {
+      "movieName": "The Godfather",
+      "director": "Francis Ford Coppola",
+      "genre": "Crime, Drama",
+      "releaseYear": 1972
+    },
+    {
+      "movieName": "Forrest Gump",
+      "director": "Robert Zemeckis",
+      "genre": "Drama, Romance",
+      "releaseYear": 1994
+    },
+    {
+      "movieName": "The Matrix",
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "genre": "Action, Sci-Fi",
+      "releaseYear": 1999
+    },
+    {
+      "movieName": "Fight Club",
+      "director": "David Fincher",
+      "genre": "Drama",
+      "releaseYear": 1999
+    },
+    {
+      "movieName": "The Lord of the Rings: The Fellowship of the Ring",
+      "director": "Peter Jackson",
+      "genre": "Adventure, Drama, Fantasy",
+      "releaseYear": 2001
+    },
+    {
+      "movieName": "Inglourious Basterds",
+      "director": "Quentin Tarantino",
+      "genre": "Adventure, Drama, War",
+      "releaseYear": 2009
+    }
+  ]
+  
